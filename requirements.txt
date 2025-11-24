@@ -4,5 +4,5 @@ numpy
 plotly
 matplotlib
 seaborn
-
-
+scikit-learn
+reportlab
